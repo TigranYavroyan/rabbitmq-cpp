@@ -1,4 +1,4 @@
-NAME = consumer
+NAME = cons
 CXX = c++
 RM = rm -f
 

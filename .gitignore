@@ -2,3 +2,5 @@
 *build
 *.vscode
 *.env
+*prod
+*cons

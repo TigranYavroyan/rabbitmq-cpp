@@ -1,4 +1,4 @@
-NAME = producer
+NAME = prod
 CXX = c++
 RM = rm -f
 
