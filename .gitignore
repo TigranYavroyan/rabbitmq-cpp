@@ -1,0 +1,6 @@
+*.o
+*producer
+*consumer
+*build
+*.vscode
+*.env
