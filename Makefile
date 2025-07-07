@@ -37,10 +37,10 @@ push: ## Git add, commit, and push (with message prompt)
 	git push
 
 producer_run: ## Run the producer binary
-	@$(PRODUCER)/producer
+	@$(PRODUCER)/prod
 
 consumer_run: ## Run the consumer binary
-	@$(CONSUMER)/consumer
+	@$(CONSUMER)/cons
 
 broker_run: ## Start RabbitMQ broker using systemctl
 	@systemctl start rabbitmq-server.service
